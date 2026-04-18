@@ -5,4 +5,5 @@ using UnityEngine;
 public class TextRuntimeNode : GenericRuntimeNode
 {
     public string text;
+    public int waitTime;
 }
