@@ -52,9 +52,9 @@
   <Project Path="Unity.Addressables.csproj" />
   <Project Path="Unity.Mathematics.Editor.csproj" />
   <Project Path="UnityEditor.UI.Analytics.csproj" />
-  <Project Path="Assembly-CSharp-Editor.csproj" />
   <Project Path="Unity.InputSystem.TestFramework.csproj" />
   <Project Path="Unity.ShaderGraph.Utilities.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
   <Project Path="Unity.Profiling.Core.csproj" />
   <Project Path="Unity.GraphToolkit.Common.Editor.csproj" />
   <Project Path="Unity.RenderPipeline.Universal.ShaderLibrary.csproj" />
